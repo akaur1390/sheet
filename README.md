@@ -1,8 +1,6 @@
 # sheet
 <html>
   <head>
-    <title>
-      sheet
-    </title>
+    sheet
   </head>
 </html>
